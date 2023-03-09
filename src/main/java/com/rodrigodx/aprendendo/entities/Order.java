@@ -5,7 +5,6 @@ import java.time.Instant;
 import java.util.Objects;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.rodrigodx.aprendendo.entities.enums.OrderStatus;
 
 import jakarta.persistence.Entity;
